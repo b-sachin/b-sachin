@@ -29,10 +29,12 @@ Motivated data engineer with strong analysis & research skills along with Master
 - 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
--->
+
 
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=b-sachin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/b-sachin/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=b-sachin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/b-sachin/github-readme-stats) 
+
+-->
 
 <!-- [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=b-sachin&layout=compact)](https://github.com/b-sachin/github-readme-stats) -->
 
