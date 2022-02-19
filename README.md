@@ -18,8 +18,8 @@ Motivated data engineer with strong analysis & research skills along with Master
 -->
 
 - 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning Data Visualization and Communication with Tableau
-- 💬 Ask me about R & Java Programming
+- 🌱 I’m currently learning Full Stack data Science
+- 💬 Ask me about Python, R & Java Programming
 
 
 <!--
