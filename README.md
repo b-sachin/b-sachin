@@ -34,7 +34,6 @@ I specialize in **Power BI, SQL, Python, and Machine Learning**, with hands-on e
 ### 🔹 **Programming & Development**  
 - **[SQL Playlist](https://github.com/b-sachin/SQL_Playlist)** – Hands-on SQL queries & database operations.  
 - **[Python Programming](https://github.com/b-sachin/Python-Programming)** – Collection of Python scripts & projects.  
-- **[Java Programming](https://github.com/b-sachin/Java-Programming)** – Java-based projects and exercises.  
 
 ### 🔹 **DevOps & Automation**  
 - **[CI/CD ML Pipeline for Housing Price Prediction](https://github.com/b-sachin/ml_pipeline)** – End-to-end CI/CD pipeline for ML models.  
