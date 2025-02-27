@@ -1,41 +1,52 @@
-# Hello there, I'm Sachin Bhopi
+# 👋 Hi, I'm Sachin Bhopi!  
 
-**Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-sachinbhopi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinbhopi/)](https://www.linkedin.com/in/sachinbhopi/) [![Github Badge](https://img.shields.io/badge/b-%2Dsachin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/b-sachin)](https://github.com/b-sachin) [![Rpub Badge](https://img.shields.io/badge/rpubs.com/b_%5Fsachin-blue?style=flat&logoColor=white&link=https://rpubs.com/b_sachin)](https://rpubs.com/b_sachin)
+🔹 **Data Analyst | Business Intelligence Developer | Machine Learning Enthusiast**  
+🔹 Passionate about **data-driven decision-making, analytics, and automation**  
 
-<!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
+I specialize in **Power BI, SQL, Python, and Machine Learning**, with hands-on experience in **building dashboards, predictive models, and end-to-end data pipelines**.  
 
+---
 
-<!-- **b-sachin/b-sachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+## 🚀 **What I Do**  
 
-Motivated data engineer with strong analysis & research skills along with Master’s degree in IT. Coming with 7+ years of teaching & research experience along with ability to perform data collection, data cleaning, exploratory data analysis in a varied data environment & having adept understanding of programming languages such as R, Python & Java.
+- 🔍 **Data Analysis & Visualization** – Power BI, Tableau, Excel  
+- 📊 **SQL & Databases** – MySQL, SQL Server  
+- 🤖 **Machine Learning & AI** – Scikit-Learn, Regression Models  
+- ⚡ **Python for Data Science** – Pandas, NumPy, Matplotlib, Seaborn  
+- 🔧 **Cloud** – AWS, Heroku  
+- 🚀 **DevOps & Automation** – GitHub Actions, Docker, CI/CD Pipelines  
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning Full Stack Data Science
-- 💬 Ask me about Python, R & Java Programming
+## 📌 **Featured Projects & Repositories**  
 
+### 📊 **Business Intelligence & Data Visualization**
+- **[Power BI Sales Dashboard](https://github.com/b-sachin/PowerBI)** – Interactive Power BI dashboard for KPI tracking & revenue insights.  
+- **[FDI Distribution in Indian Sectors (Tableau)](https://public.tableau.com/app/profile/sachin.bhopi)** – Visualization of sector-wise investment trends over 16 years.  
 
-<!--
- - 📫 Let's get social: <a href="https://www.linkedin.com/in/sachinbhopi/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   
+### 🤖 **Machine Learning & Predictive Analytics**  
+- **[CI/CD ML Pipeline for Housing Price Prediction](https://github.com/b-sachin/ml_pipeline)** – Automated ML pipeline with Docker & GitHub Actions. 
 
-- 🤓 I'm Java Advocate (a.k.a. Evangelist)
-- 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
+### 🛠 **Data Engineering & Web Scraping**  
+- **[Flipkart Product Review Scraper](https://github.com/b-sachin/review_scrapper)** – Python-based web scraper using Selenium & BeautifulSoup.  
+- **[Data Cleaning & Preprocessing](https://github.com/b-sachin/Data-Cleaning-and-Preprocessing)** – Repository for data preprocessing & feature engineering techniques.  
 
+### 🔹 **Programming & Development**  
+- **[SQL Playlist](https://github.com/b-sachin/SQL_Playlist)** – Hands-on SQL queries & database operations.  
+- **[Python Programming](https://github.com/b-sachin/Python-Programming)** – Collection of Python scripts & projects.  
+- **[Java Programming](https://github.com/b-sachin/Java-Programming)** – Java-based projects and exercises.  
 
-## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=b-sachin&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/b-sachin/github-readme-stats) 
+### 🔹 **DevOps & Automation**  
+- **[CI/CD ML Pipeline for Housing Price Prediction](https://github.com/b-sachin/ml_pipeline)** – End-to-end CI/CD pipeline for ML models.  
 
--->
+---
 
-<!-- [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=b-sachin&layout=compact)](https://github.com/b-sachin/github-readme-stats) -->
+## 📬 **Get in Touch:**  
 
+[![Linkedin Badge](https://img.shields.io/badge/-sachinbhopi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinbhopi/)](https://www.linkedin.com/in/sachinbhopi/)  
+[![Github Badge](https://img.shields.io/badge/b-%2Dsachin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/b-sachin)](https://github.com/b-sachin)  
+[![Rpub Badge](https://img.shields.io/badge/rpubs.com/b_%5Fsachin-blue?style=flat&logoColor=white&link=https://rpubs.com/b_sachin)](https://rpubs.com/b_sachin)  
 
+---
+
+⭐ **Feel free to explore my repositories and connect with me!** 🚀  
